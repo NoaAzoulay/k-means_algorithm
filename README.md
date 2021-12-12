@@ -1,4 +1,4 @@
-# k-means_algorithm
+# k-means_algorithm, using numpy
 in this task, the k-means algorithm is implemented in order to recognize a picture by its pixels. 
 the k values are taken from values : 2,4,8,16. 
 
